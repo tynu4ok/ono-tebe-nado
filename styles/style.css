@@ -57,7 +57,7 @@
   border-bottom: 1px solid black;
  }
 
-.cover  {
+.cover {
   padding-bottom: 50px;
   min-height: 750px;
   background-image: url(../images/cover.jpg);
@@ -70,7 +70,7 @@
   left: 0;
 }
 
- .overlay {
+.overlay {
   background-color: rgba(0,0,0,0.5); 
   position: absolute;
   top: 0;
@@ -340,7 +340,7 @@
   list-style-type: none;
 }
 
-.footer__social-icon {
+.footer__social-icon {  
   width: 48px;
-  height: 48px;  
+  height: 48px;
 }
